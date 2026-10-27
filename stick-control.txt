@@ -1,6 +1,6 @@
-# Stick Control routines for Stick Timing Trainer. Routines are split by lines of dashes.
+# Stick Control routines for Pocket. Routines are split by lines of dashes.
 ---
-title: Stick Control - Page 5 - Single Beat Combinations 
+title: Stick Control: Page 5 - Single Beat Combinations 
 time: 2/2
 strokes: 8
 RLRL RLRL RLRL RLRL
@@ -28,7 +28,7 @@ LRLR LRRR LRLR LRRR
 RLRL RRRR LRLR LLLL
 RRLL RLRR LLRR LRLL
 ---
-title: Stick Control - Page 6 - Single Beat Combinations 
+title: Stick Control: Page 6 - Single Beat Combinations 
 time: 2/2
 strokes: 8
 RRLL RLLR LLRR LRRL
@@ -55,7 +55,7 @@ LRRL LRRL LRRL LRRL
 RLLR LLLR LRRL RRRL
 RLLR LRRR LRRL RLLL
 ---
-title: Stick Control - Page 7 - Single Beat Combinations
+title: Stick Control: Page 7 - Single Beat Combinations
 time: 2/2
 strokes: 8
 RLLR LLLL RLLR LLLL
@@ -83,7 +83,7 @@ RRLL RLRR LLLL RRRR
 LLRR LRLL RRRR LLLL
 RRRR LLRR LRRL RLRL
 ---
-title: Stick Control - Page 8 - Triplets Page
+title: Stick Control: Page 8 - Triplets Page
 time: 2/2
 8 RLRL 8t RLR LRL 8 RLRL 8t RLR LRL
 8 LRLR 8t LRL RLR 8 LRLR 8t LRL RLR
@@ -110,7 +110,7 @@ time: 2/2
 8 LRRR 8t LLR LLR 8 LRRR 8t LLR LLR
 8 RRRR 8t LLR LLR 8 LLLL 8t RRL RRL
 ---
-title: Stick Control - Page 9 - Triplets Page
+title: Stick Control: Page 9 - Triplets Page
 time: 2/2
 8 RLRL 8t RLR LRL 8 RLRL 8t RLR LRL 8 RLRL 8t RLR LRL 8t RLR LRL 8t RLR LRL
 8 LRLR 8t LRL RLR 8 LRLR 8t LRL RLR 8 LRLR 8t LRL RLR 8t LRL RLR 8t LRL RLR
